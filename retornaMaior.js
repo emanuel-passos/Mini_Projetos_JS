@@ -3,6 +3,8 @@ let b = 10;
 
 function retornaMaior(valor1, valor2){
 
+//return valor>valor2 ? valor1: valor2;
+
 if(valor1>valor2){
     return valor1;
 }else{
